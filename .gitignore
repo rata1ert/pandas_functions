@@ -1,0 +1,8 @@
+# Виртуальное окружение
+venv/
+
+# Кэш Python
+__pycache__/
+__init__.py
+*.pyc
+*.zip
